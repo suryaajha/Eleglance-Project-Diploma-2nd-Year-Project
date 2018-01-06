@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "979394583796",
+    "firebase_url": "https://eleglance-687cd.firebaseio.com",
+    "project_id": "eleglance-687cd",
+    "storage_bucket": "eleglance-687cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979394583796:android:a37a4df2d7813644",
+        "android_client_info": {
+          "package_name": "com.events.example.eleglance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979394583796-2nbjmlpb8mmfag7ie5es4128462nrvo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAShyOq7sQX2f3jA6_kLy7_3U-TduQD5Hk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
