@@ -26,3 +26,17 @@ people
 without scrolling the window
 3. Management of event in a group made easy by CUDE (Create Update Delete
 Event)
+
+# Front End Technology
+
+Front End Technology is used as Android and coded in java
+
+The GUI is developed using the XML language
+
+# Back End Technology
+Firebase Authentication is used to authenticate the users
+
+Firebase Database is used for storing the persistent data
+
+Firebase Storage is used to store the image
+
